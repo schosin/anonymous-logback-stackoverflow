@@ -1,0 +1,1 @@
+IndexControllerTest causes a StackOverflowException due to the interaction between AnonymousAuthenticationFilter and SecurityContextAccessingTurboFilter.
